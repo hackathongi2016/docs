@@ -6,7 +6,7 @@ En aquest repositori trobareu la documentació del projecte, un esquema de la ba
 
 ## Fitxers importants
 
-[Documentació del projecte](https://github.com/hackathongi2016/docs/blob/master/viatgem_junts.sql?raw=true)
+[Documentació del projecte](https://github.com/hackathongi2016/docs/blob/master/viatgem_junts.pdf?raw=true)
 
 [Script de creació de la base de dades](https://github.com/hackathongi2016/docs/blob/master/script_bbdd.sql)
 
