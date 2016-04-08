@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: localhost
--- Temps de generació: 08-04-2016 a les 18:07:03
+-- Temps de generació: 08-04-2016 a les 20:59:36
 -- Versió del servidor: 5.6.26
 -- Versió de PHP: 5.6.12
 
@@ -86,6 +86,8 @@ CREATE TABLE IF NOT EXISTS `Travel` (
   `tra_budget_min` float DEFAULT NULL,
   `tra_budget_max` float DEFAULT NULL,
   `tra_date` date NOT NULL,
+  `tra_lat` float NOT NULL,
+  `tra_long` float NOT NULL,
   `tra_planning_limit` date NOT NULL,
   `tra_persons_min` int(11) DEFAULT NULL,
   `tra_persons_max` int(11) DEFAULT NULL,
@@ -144,6 +146,7 @@ CREATE TABLE IF NOT EXISTS `Vote` (
 
 CREATE TABLE IF NOT EXISTS `WallComment` (
   `com_id` int(11) NOT NULL,
+  `com_date` datetime NOT NULL,
   `com_description` varchar(1000) NOT NULL,
   `com_top_id` bigint(20) NOT NULL,
   `com_usr_id` bigint(20) NOT NULL
