@@ -1,0 +1,7 @@
+﻿Blau Primari= 6f83ff
+
+Blau Secondari= 717dc5
+
+Blanc= ffffff
+
+Color Destecat (Vermell)= c05858
