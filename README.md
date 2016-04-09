@@ -2,7 +2,7 @@
 
 En aquest repositori trobareu la documentació del projecte, un esquema de la base de dades i l'script de creació
 
-![alt bbdd]((https://github.com/hackathongi2016/docs/bd/bbdd.png)
+![alt bbdd]((https://github.com/hackathongi2016/docs/db/bbdd.png)
 
 ## Fitxers importants
 
