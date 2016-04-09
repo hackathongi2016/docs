@@ -11,5 +11,5 @@ En aquest repositori trobareu la documentació del projecte, un esquema de la ba
 
 [Script de creació de la base de dades](https://github.com/hackathongi2016/docs/blob/master/bd/script_bbdd.sql)
 
-[WorkBench File](https://github.com/hackathongi2016/docs/blob/master/Hackathon2016.mwb?raw=true)
+[WorkBench File](https://github.com/hackathongi2016/docs/blob/master/db/Hackathon2016.mwb?raw=true)
 
